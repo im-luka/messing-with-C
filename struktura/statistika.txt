@@ -1,0 +1,83 @@
+Izlaznost: 68.33%
+Mrtvih: 9.76%
+Nisu na popisu: 30.49%
+
+Mrtvi glasaci:
+2001: Jennings Josko
+2004: Francetic Franjo
+2007: Pilatovic Anna
+2008: Nooberly Ken
+2008: Nooberly Neno
+2012: Dalic Ken
+2014: Grmsek Petar
+2016: Oozy Franjo
+
+Legalni glasaci:
+Av. Gojka Suska 70: 26.3.1978 - Neno Tutti
+Av. Gojka Suska 89: 13.1.1981 - Grgur Hecimovic
+Avenija Dubrava 108: 1.11.1982 - Ula Ivory
+Avenija Dubrava 134: 1.12.1994 - Ken Cinza
+Avenija Dubrava 166: 25.7.1945 - Anna Essen
+Avenija Dubrava 237: 1.10.1998 - Tvrtko Pilinic
+Drziceva 68: 17.7.1999 - Ivo Pilic
+Drziceva 97: 8.9.1983 - Josko Grmsek
+Drziceva 138: 10.7.1939 - Anna Madison-Riverside
+Ilica 38: 24.10.1999 - Franjo Zanzi
+Ilica 161: 20.11.1975 - Franjo Tutti
+Kruge 24: 17.1.1934 - Leeloo Samir
+Maksimirska 233: 7.5.1974 - Ratko Francetic
+Maksimirska 240: 3.9.1987 - Cecile Samir
+Marticeva 97: 5.7.1976 - Marija Ana Pilic
+Marticeva 143: 17.6.1948 - Ula Hecimovic
+Marticeva 192: 3.6.1988 - Josko Lin Liu
+Marticeva 249: 21.4.1982 - Marija Ana Unkovac
+Marticeva 252: 5.7.1986 - Ula Francetic
+Pantovcak 167: 16.3.1974 - Franjo Oozy
+Teslicka 62: 3.11.1993 - Cecile Jennings
+Teslicka 69: 25.9.1983 - Ula Boskovic
+Teslicka 110: 22.2.1996 - Estera Dalic
+Teslicka 251: 5.4.1964 - Bosko Madison-Riverside
+Teslina 42: 6.7.1941 - Josko Lin Liu
+Teslina 217: 3.2.1960 - Dalila Aiden
+Trg Petra Kresimira IV 78: 25.6.1951 - Franjo Oozy
+Trg Petra Kresimira IV 152: 20.10.1940 - Grgur Jennings
+Trg zrtava Uskoka 250: 5.2.1947 - Franjo Kent
+Ul. T. Krambergera 22: 6.1.1953 - Marija Ana Dalic
+Ul. T. Krambergera 33: 28.8.1996 - Cecile Boskovic
+Ul. T. Krambergera 168: 23.1.1997 - Estera Dalic
+Ul. grada Maribora 63: 20.9.1948 - Tvrtko Oozy
+Ul. grada Maribora 123: 9.12.1974 - Ratko Hecimovic
+Ul. grada Maribora 253: 14.2.1992 - Josko Madison-Riverside
+Unska 80: 20.6.1948 - Estera Essen
+Unska 163: 21.3.1984 - Tvrtko Essen
+Vlaska 3: 22.7.1941 - Neno Nooberly
+Vlaska 41: 23.7.1949 - Neno Tutti
+Vlaska 80: 9.2.1959 - Sasa Kent
+Vlaska 94: 16.7.1979 - Leeloo Samir
+Vlaska 188: 8.8.1960 - Venio Madison-Riverside
+Vlaska 262: 8.3.1992 - Sasa Grmsek
+Vrbik 26: 5.10.1977 - Anna Nooberly
+Vrbik 60: 16.5.1964 - Marija Ana Tutti
+Vrbik 60: 23.3.1966 - Cecile Cinza
+Vukovarska 91: 5.7.1963 - Ratko Hecimovic
+Vukovarska 154: 25.1.1974 - Hrvoje Boskovic
+Vukovarska 208: 9.11.1950 - Ratko Boskovic
+
+Statistika po gradu:
+Beograd: 66.67%
+Bjelovar: 80.00%
+Crikvenica: 77.78%
+D. Miholjac: 50.00%
+Ljubljana: 100.00%
+Osijek: 75.00%
+Pozega: 66.67%
+Rijeka: 0.00%
+Sarajevo: 33.33%
+Slatina: 75.00%
+Split: 100.00%
+Varazdin: 100.00%
+Velika Gorica: 50.00%
+Venezia: 100.00%
+Vienna: 100.00%
+Vukovar: 100.00%
+Zagreb: 80.00%
